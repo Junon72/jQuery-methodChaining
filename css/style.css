@@ -49,3 +49,19 @@ Navigation
   border: solid 5px #ccc;
 }
 
+/*************************
+Method Chaining Challenge
+**************************/
+
+/* Solution code */
+.bottom_button {
+    background-color: rgb(255, 173, 167); /*blue with red was just too ugly!!*/
+}
+
+.makeRed {
+    background-color: red;
+}
+
+.makeBorder {
+    border: solid 2px red;
+}

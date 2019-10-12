@@ -19,3 +19,10 @@ Interactive Frontend Development - From JavaScript to jQuery
 1.  Made the paragraph text hide with a click of the button
 
 2.  Made the paragraph text appear with another click of the button
+
+### Challenge -3
+
+1.  Created buttons for the following paragraph effects on button click
+    -   hide()/ show() -    toggle()
+    -   fadeOut()/ fadeIn() -   fadeToggle()
+    -   slideUp()/ slideDown() -    slideToggle()

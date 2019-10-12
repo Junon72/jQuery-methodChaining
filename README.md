@@ -9,4 +9,7 @@ Interactive Frontend Development - From JavaScript to jQuery
 
 ### Challenge
 
+1.  Made the button change the backgtound color and added a border when mouse hover over
+
+2. Made the button change back when mouse leaves hover
 

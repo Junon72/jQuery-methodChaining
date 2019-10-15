@@ -27,12 +27,12 @@ $('.card_para').click(function() {
      */
 });
 
-//jQuery Traversing Mt. DOM - Traversin Sideways - Challenge - 2
+//jQuery Traversing Mt. DOM - Traversing Sideways - Challenge - 2
 
-$('button').click(function() {
+$('.bottom_button').click(function() {
  $(this).prev().slideToggle('slow');
 });
 
-$('img').click(function() {
+$('.card_image').click(function() {
  $(this).next().children('p').slideDown();
 });

@@ -138,6 +138,10 @@ li{
     background-color: rgb(235, 82, 85);
 }
 
+.links-highlight {
+    color: yellow;
+}
+
 @media screen and (max-width: 700px){
 	ul{
 		flex-flow: column;

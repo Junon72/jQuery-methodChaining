@@ -37,4 +37,21 @@ Interactive Frontend Development - From JavaScript to jQuery
 
 1.  Made the background color of individual card groups change on click of the navigation buttons
 
+## jQuery Traversing Mt. DOM - Traversin Up and Down the DOM Tree
+
+### Items I covered on this course:
+
+-   parent() method
+-   children() method
+
+### Challenge -1 (card.html)
+
+1.  Made the links within a paragraph highlighted in yellow, on click of the links containing paragraph
+
+
+
+
+
+
+
 

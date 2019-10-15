@@ -7,7 +7,18 @@
 	margin-left:auto;
 	max-width:1050px;	
 }
-.bottom_button{
+
+#container2
+{
+	display: flex;		/* makes container a flexbox*/
+	flex-flow: row wrap; 	/* layout the boxes in rows and wrap them*/
+	box-sizing:border-box;
+	margin-right:auto;
+	margin-left:auto;
+	max-width:1050px;	
+}
+
+.bottom_button, .buttonButton{
 	display: flex;
 	box-sizing:border-box;
 	border-radius: 4px;
@@ -21,10 +32,6 @@
 
 }
 
-.card_bottom{
-	display: flex;
-	flex-flow:column;
-}
 
 .card{
 	flex:1; /* */
@@ -54,7 +61,7 @@ Method Chaining Challenge
 **************************/
 
 /* Solution code */
-.bottom_button {
+.bottom_button, .buttonButton {
     background-color: rgb(255, 173, 167); /*blue with red was just too ugly!!*/
 }
 
@@ -65,3 +72,4 @@ Method Chaining Challenge
 .makeBorder {
     border: solid 2px red;
 }
+

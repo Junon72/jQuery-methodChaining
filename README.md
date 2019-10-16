@@ -37,7 +37,7 @@ Interactive Frontend Development - From JavaScript to jQuery
 
 1.  Made the background color of individual card groups change on click of the navigation buttons
 
-## jQuery Traversing Mt. DOM - Traversin Up and Down the DOM Tree
+## jQuery Traversing Mt. DOM - Traversing Up and Down the DOM Tree
 
 ### Items I covered on this course:
 
@@ -46,6 +46,7 @@ How to use methods
 -   children()
 -   next()
 -   prev()
+-   toggleClass()
 
 ### Challenge - 1 (button.html)
 
@@ -54,6 +55,15 @@ How to use methods
 ### Challenge - 2 (card.html)
 
 1.  Hide the paragraphs from the cards and made them appear when cliking the card image 
+
+### Challenge - 3 (card.html)
+
+1. Made the card background color highlight on toggling the card
+
+### Challenge - 4 (card.html)
+
+1. Made the cards which are not higlighted hide when select is clicked and reappear weh all is clicked
+
 
 
 

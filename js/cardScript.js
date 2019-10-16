@@ -36,3 +36,19 @@ $('.bottom_button').click(function() {
 $('.card_image').click(function() {
  $(this).next().children('p').slideDown();
 });
+
+//jQuery Traversing Mt. DOM - Traversing Sideways - Challenge - 3
+
+$('.card').click(function() {
+    $(this).toggleClass('highlight');
+});
+
+//jQuery Traversing Mt. DOM - Traversing Sideways - Challenge - 4
+
+$('.select').click(function() {
+    $('.card:not(.highlight)').hide();
+});
+
+$('.all').click(function() {
+    $('.card').show();
+});
